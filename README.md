@@ -21,7 +21,9 @@ Instructions:
   
   
   This app was made using:
+  
     Discord.Py - https://github.com/Rapptz/discord.py.
+    
     D-hooks - https://github.com/kyb3r/dhooks.
     
 
