@@ -1,5 +1,11 @@
 # DiscordLogger
 
+Instalation:
+
+   `Download the application - git clone https://github.com/VEERT00X/DiscordLogger/tree/master/App`
+
+
+
 Purpose of the app.
   Imagin this you told on a server that you are going now becouse you have something else to do.
   And if thay try to talk about you behing your back you will hear a alarm.
@@ -26,8 +32,6 @@ Instructions:
     
     D-hooks - https://github.com/kyb3r/dhooks.
     
-
-
 
 
   Copyright [https://veert00x.com/] 2022
