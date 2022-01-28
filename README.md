@@ -1,8 +1,9 @@
 # DiscordLogger
 
 Instalation:
-
-   `Download the application - git clone https://github.com/VEERT00X/DiscordLogger/tree/master/App`
+   ```
+   Download the application - git clone https://github.com/VEERT00X/DiscordLogger
+   ```
 
 
 
