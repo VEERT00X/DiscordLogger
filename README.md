@@ -1,6 +1,6 @@
 **# Discord Logger**
 
-Installation:
+**Installation.**
    ```
    Download the application - git clone https://github.com/VEERT00X/DiscordLogger
    ```
@@ -15,7 +15,7 @@ Installation:
 
 
 
-**Instructions.:**
+**Instructions.**
   1.  Add keywords to the list and if someone sends a keyword you will hear an alarm.
   2.  Add a webhook and all messages will be saved to your discord webhook.
   3.  Configure your discord bot token so the app will work.
@@ -23,7 +23,7 @@ Installation:
   
   
   
-**  This app can be used as a sellout [BUT IT IS NOT RECOMMEND AS IT IS AGAINST DISCORD TOS] - [YOU HAVE BEEN WARNED]**
+**  This app can be used as a sellout [BUT IT IS NOT RECOMMEND AS IT IS AGAINST DISCORD TOS] - [YOU HAVE BEEN WARNED] **
   
   
   
