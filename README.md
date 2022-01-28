@@ -1,6 +1,6 @@
-# DiscordLogger
+# Discord Logger
 
-Instalation:
+Installation:
    ```
    Download the application - git clone https://github.com/VEERT00X/DiscordLogger
    ```
@@ -8,32 +8,32 @@ Instalation:
 
 
 Purpose of the app.
-  Imagin this you told on a server that you are going now becouse you have something else to do.
-  And if thay try to talk about you behing your back you will hear a alarm.
-  So you can interfere or see what thay are talking about you.
+  Imagine this you told on a server that you are going now because you have something else to do.
+  And if they try to talk about you behind your back you will hear an alarm.
+  So, you can interfere or see what they are talking about you.
 
 
 
 
 Instructions:
-  1.  Add keywords to the list and if somone sends a keyword you will hear an alarm.
-  2.  Add a webhook and all messages will be saved to your discord webhok.
+  1.  Add keywords to the list and if someone sends a keyword you will hear an alarm.
+  2.  Add a webhook and all messages will be saved to your discord webhook.
   3.  Configure your discord bot token so the app will work.
   
   
   
   
-  This app can be used as a selfbot [BUT IT IS NOT RECOMMEND AS IT IS AGAINST DISCORD TOS] - [YOU HAVE BEEN WARNED]
+  This app can be used as a sellout [BUT IT IS NOT RECOMMEND AS IT IS AGAINST DISCORD TOS] - [YOU HAVE BEEN WARNED]
   
   
   
   This app was made using:
   
-    Discord.Py - https://github.com/Rapptz/discord.py.
+    Discord.PY - https://github.com/Rapptz/discord.py.
     
     D-hooks - https://github.com/kyb3r/dhooks.
     
 
 
   Copyright [https://veert00x.com/] 2022
-  
+
