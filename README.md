@@ -8,6 +8,7 @@
 
 
 **Purpose of the app.**
+
   Imagine this you told on a server that you are going now because you have something else to do.
   And if they try to talk about you behind your back you will hear an alarm.
   So, you can interfere or see what they are talking about you.
