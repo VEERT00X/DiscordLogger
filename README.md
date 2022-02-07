@@ -24,9 +24,12 @@
   
   
   
-**  This app can be used as a sellout [BUT IT IS NOT RECOMMEND AS IT IS AGAINST DISCORD TOS] - [YOU HAVE BEEN WARNED] **
-  
-  
+**This app can be used with a self-bot (SB) insted of discord-created-bot (DCB) **
+   
+   [BUT ITS NOT RECOMMENDED BECOUSE IT IS AGAINST THE DISCORD TERMS OF SERVICE (ToS)]
+   
+   [YOUR ACCOUNT WILL BE TERMINATED IF YOU GET CAUGHT YOU HAVE BEEN WARNED]
+   
   
   This app was made using:
   
