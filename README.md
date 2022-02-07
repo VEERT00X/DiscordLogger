@@ -24,7 +24,7 @@
   
   
   
-**This app can be used with a self-bot (SB) insted of discord-created-bot (DCB) **
+**This app can be used with a self-bot (SB) insted of discord-created-bot (DCB)**
    
    [BUT ITS NOT RECOMMENDED BECOUSE IT IS AGAINST THE DISCORD TERMS OF SERVICE (ToS)]
    
