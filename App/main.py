@@ -1,3 +1,7 @@
+#   Copyright (c) 2022, VEERT00X
+#   All rights reserved.
+
+
 import discord      # We need this to use our discord bot.
 import dhooks       # Discord - WebHooks.
 import os           # We need it to access files.
