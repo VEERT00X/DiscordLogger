@@ -37,6 +37,7 @@
     D-hooks - https://github.com/kyb3r/dhooks.
     
 
+  **Compatibility** - Windows , Linux/vine.
 
   Copyright [https://veert00x.com/] 2022
 
